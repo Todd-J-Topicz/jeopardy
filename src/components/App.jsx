@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-//import axios from 'axios';
 import { categories } from "../testdata.jsx";
 import Gameboard from "./Gameboard.jsx";
 import Scoreboard from "./Scoreboard.jsx";
